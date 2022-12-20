@@ -12,4 +12,4 @@ public class TakingInput {
         System.out.println(sum);
 		}
 }			
-	
+			
