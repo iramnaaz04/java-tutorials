@@ -23,9 +23,10 @@ class Mini_game {
 				System.out.println("YOUR NUMBER IS TOO SMALL...");
 			}
 		} while(userNumber >= 0);
-		System.out.println("My number was: ");
+		System.out.println("My number was:90");
 		System.out.println(" ");
-		System.out.println(myNumber);
+		
+		
 		
 		
 	}
