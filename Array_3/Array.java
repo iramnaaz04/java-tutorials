@@ -1,3 +1,4 @@
+
 class Array {
 	public static void main(String[] args) {
 		//There are 3 main ways to create an array in java

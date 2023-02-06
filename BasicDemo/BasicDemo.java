@@ -120,10 +120,10 @@
 	
    public static void main(String[] args) {	
 	  // Language Basics 1
-	  //print();				
-	  //primitives();
-	  //arrays();
-	  //  threeDimensionalArrays();	 
+	  print();				
+	  primitives();
+	  arrays();
+	  threeDimensionalArrays();	 
       varargsOverload(true, 1, 2, 3);
       varargsOverload(true, 1, 2, 3, 4, 5, 6, 7, 8);
 varargsOverload(true);	  
