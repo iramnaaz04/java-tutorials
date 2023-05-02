@@ -25,7 +25,9 @@ public class Positive{
 		System.out.println("Do you want to count");
 		ans = getchar();
 		
+	
+	System.out.printf(p," ");
+	System.out.printf(n," ");
+	System.out.printf(z," ");
 	}
-	System.out.printf("%d,%d,%d",p,n,z);
-	getch();
 }
