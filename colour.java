@@ -6,7 +6,7 @@ public class colour {
 		
 	
 			Scanner sc = new Scanner(System.in);
-		    System.out.print("Enter your choice");
+		    System.out.print("Enter your choice: ");
 			ch = sc.next().charAt(0); 
 			char a;
 			switch(ch)
